@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-24T14:29:37 EET" name="Default suite" finished-at="2025-05-24T14:30:08 EET" duration-ms="31385">
+    <groups>
+    </groups>
+    <test started-at="2025-05-24T14:29:37 EET" name="Default test" finished-at="2025-05-24T14:30:08 EET" duration-ms="31385">
+      <class name="ToolShopWebsiteProject.ToolShopWebsiteProject.MyTest">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:ToolShopWebsiteProject.ToolShopWebsiteProject.MyTest@5aac4250]" started-at="2025-05-24T14:29:37 EET" name="mySetup" finished-at="2025-05-24T14:29:40 EET" duration-ms="2471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="Login()[pri:1, instance:ToolShopWebsiteProject.ToolShopWebsiteProject.MyTest@5aac4250]" started-at="2025-05-24T14:29:40 EET" name="Login" finished-at="2025-05-24T14:29:44 EET" duration-ms="4746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="ProductSearchAndFiltiring()[pri:2, instance:ToolShopWebsiteProject.ToolShopWebsiteProject.MyTest@5aac4250]" started-at="2025-05-24T14:29:44 EET" name="ProductSearchAndFiltiring" finished-at="2025-05-24T14:29:48 EET" duration-ms="4037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductSearchAndFiltiring -->
+        <test-method signature="AddItems()[pri:3, instance:ToolShopWebsiteProject.ToolShopWebsiteProject.MyTest@5aac4250]" started-at="2025-05-24T14:29:48 EET" name="AddItems" finished-at="2025-05-24T14:29:55 EET" duration-ms="6351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItems -->
+        <test-method signature="CheckoutFlow()[pri:4, instance:ToolShopWebsiteProject.ToolShopWebsiteProject.MyTest@5aac4250]" started-at="2025-05-24T14:29:55 EET" name="CheckoutFlow" finished-at="2025-05-24T14:30:08 EET" duration-ms="13682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutFlow -->
+      </class> <!-- ToolShopWebsiteProject.ToolShopWebsiteProject.MyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
